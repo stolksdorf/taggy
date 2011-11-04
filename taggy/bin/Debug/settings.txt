@@ -1,0 +1,2 @@
+dir:E:\Shared\Music Storage,C:\Dropbox\root\Music
+rename:%artist% - %title%

@@ -1,0 +1,6 @@
+C:\Dropbox\root\Programming\C#\taggy\taggy\bin\Debug\taggy.exe
+C:\Dropbox\root\Programming\C#\taggy\taggy\bin\Debug\taggy.pdb
+C:\Dropbox\root\Programming\C#\taggy\taggy\bin\Debug\taglib-sharp.dll
+C:\Dropbox\root\Programming\C#\taggy\taggy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\root\Programming\C#\taggy\taggy\obj\x86\Debug\taggy.exe
+C:\Dropbox\root\Programming\C#\taggy\taggy\obj\x86\Debug\taggy.pdb
